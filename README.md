@@ -1,5 +1,5 @@
 <p>
-  <a href="https://carlosmarquina.dev">
+  <a href="https://carlosmarquina.dev" target="_blank">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marquinacarlos/marquinacarlos/main/banner-dark.png">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marquinacarlos/marquinacarlos/main/banner-light.png">
